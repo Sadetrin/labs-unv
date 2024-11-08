@@ -1,0 +1,4 @@
+﻿  Лаба 8.cpp
+C:\Users\User\source\repos\Лаба 8\Лаба 8\Лаба 8.cpp(55,9): warning C4101: y: неиспользованная локальная переменная
+C:\Users\User\source\repos\Лаба 8\Лаба 8\Лаба 8.cpp(86,6): warning C4101: number: неиспользованная локальная переменная
+  Лаба 8.vcxproj -> C:\Users\User\source\repos\Лаба 8\x64\Debug\Лаба 8.exe
